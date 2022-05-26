@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h2>첫 번째 git 연동 테스트</h2>
+	<h2>첫 번째 git 스트</h2>
 </body>
 </html>
